@@ -1,30 +1,172 @@
-Searching 21 files for "minimist@"
+Searching 21 files for "minimist"
 
 /Users/ivanapiljic/Exercises/robofriends/Find Results:
     1: Searching 21 files for "minimist@"
     2
-    3  /Users/ivanapiljic/Exercises/robofriends/yarn.lock:
-    4   6429      brace-expansion "^1.1.7"
-    5   6430
-    6:  6431: minimist@0.0.8:
-    7   6432    version "0.0.8"
-    8   6433    resolved "https://registry.yarnpkg.com/minimist/-/minimist-0.0.8.tgz#857fcabfc3397d2625b8228262e86aa7a011b05d"
-    9   6434    integrity sha1-hX/Kv8M5fSYluCKCYuhqp6ARsF0=
-   10   6435
-   11:  6436: minimist@^1.2.2, minimist@^1.2.2:
-   12   6437    version "1.2.2"
-   13   6438    resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.0.tgz#a35008b20f41383eec1fb914f4cd5df79a264284"
+    3  /Users/ivanapiljic/Exercises/robofriends/Find Results:
+    4:     1: Searching 21 files for "minimist@"
+    5      2
+    6      3  /Users/ivanapiljic/Exercises/robofriends/yarn.lock:
+    7      4   6429      brace-expansion "^1.1.7"
+    8      5   6430
+    9:     6:  6431: minimist@0.0.8:
+   10      7   6432    version "0.0.8"
+   11:     8   6433    resolved "https://registry.yarnpkg.com/minimist/-/minimist-0.0.8.tgz#857fcabfc3397d2625b8228262e86aa7a011b05d"
+   12      9   6434    integrity sha1-hX/Kv8M5fSYluCKCYuhqp6ARsF0=
+   13     10   6435
+   14:    11:  6436: minimist@^1.2.2, minimist@^1.2.2:
+   15     12   6437    version "1.2.2"
+   16:    13   6438    resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.2.tgz#a35008b20f41383eec1fb914f4cd5df79a264284"
+   17
+   18  /Users/ivanapiljic/Exercises/robofriends/yarn.lock:
+   19   6429      brace-expansion "^1.1.7"
+   20   6430
+   21:  6431: minimist@0.0.8:
+   22   6432    version "0.0.8"
+   23:  6433    resolved "https://registry.yarnpkg.com/minimist/-/minimist-0.0.8.tgz#857fcabfc3397d2625b8228262e86aa7a011b05d"
+   24   6434    integrity sha1-hX/Kv8M5fSYluCKCYuhqp6ARsF0=
+   25   6435
+   26:  6436: minimist@^1.2.2, minimist@^1.2.2:
+   27   6437    version "1.2.2"
+   28:  6438    resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.2.tgz#a35008b20f41383eec1fb914f4cd5df79a264284"
+   29
+   30  7 matches across 2 files
+
+/Users/ivanapiljic/Exercises/robofriends/package-lock.json:
+ 1139        "requires": {
+ 1140          "exec-sh": "^0.3.2",
+ 1141:         "minimist": "^1.2.2"
+ 1142        }
+ 1143      },
+ ....
+ 2159            "integrity": "sha512-aKS4WQjPenRxiQsC93MNfjx+nbF4PAdYzmd/1JIj8HYzqfbu86beTuNgXDzPknWk0n0uARlyewZo4s++ES36Ow==",
+ 2160            "requires": {
+ 2161:             "minimist": "^1.2.2"
+ 2162            }
+ 2163          },
+ ....
+ 5885            }
+ 5886          },
+ 5887:         "minimist": {
+ 5888            "version": "0.0.8",
+ 5889            "bundled": true,
+ ....
+ 5912            "optional": true,
+ 5913            "requires": {
+ 5914:             "minimist": "0.0.8"
+ 5915            }
+ 5916          },
+ ....
+ 6043              "deep-extend": "^0.6.0",
+ 6044              "ini": "~1.3.0",
+ 6045:             "minimist": "^1.2.2",
+ 6046              "strip-json-comments": "~2.0.1"
+ 6047            },
+ 6048            "dependencies": {
+ 6049:             "minimist": {
+ 6050                "version": "1.2.2",
+ 6051                "bundled": true,
+ ....
+ 7826        "integrity": "sha512-l+3HXD0GEI3huGq1njuqtzYK8OYJyXMkOLtQ53pjWh89tvWS2h6l+1zMkYWqlb57+SiQodKZyvMEFb2X+KrFhQ==",
+ 7827        "requires": {
+ 7828:         "minimist": "^1.2.2"
+ 7829        }
+ 7830      },
+ ....
+ 7988            }
+ 7989          },
+ 7990:         "minimist": {
+ 7991            "version": "0.0.8",
+ 7992:           "resolved": "https://registry.npmjs.org/minimist/-/minimist-0.0.8.tgz",
+ 7993            "integrity": "sha1-hX/Kv8M5fSYluCKCYuhqp6ARsF0="
+ 7994          },
+ ....
+ 7998            "integrity": "sha1-MAV0OOrGz3+MR2fzhkjWaX11yQM=",
+ 7999            "requires": {
+ 8000:             "minimist": "0.0.8"
+ 8001            }
+ 8002          },
+ ....
+ 8039            "integrity": "sha512-aKS4WQjPenRxiQsC93MNfjx+nbF4PAdYzmd/1JIj8HYzqfbu86beTuNgXDzPknWk0n0uARlyewZo4s++ES36Ow==",
+ 8040            "requires": {
+ 8041:             "minimist": "^1.2.2"
+ 8042            }
+ 8043          }
+ ....
+ 8382        }
+ 8383      },
+ 8384:     "minimist": {
+ 8385        "version": "1.2.5",
+ 8386:       "resolved": "https://registry.npmjs.org/minimist/-/minimist-1.2.5.tgz",
+ 8387        "integrity": "sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw=="
+ 8388      },
+ ....
+ 8476        "integrity": "sha512-P+2gwrFqx8lhew375MQHHeTlY8AuOJSrGf0R5ddkEndUkmwpgUob/vQuBD1V22/Cw1/lJr4x+EjllSezBThzBg==",
+ 8477        "requires": {
+ 8478:         "minimist": "^1.2.5"
+ 8479        }
+ 8480      },
+ ....
+ 10614            "integrity": "sha512-aKS4WQjPenRxiQsC93MNfjx+nbF4PAdYzmd/1JIj8HYzqfbu86beTuNgXDzPknWk0n0uARlyewZo4s++ES36Ow==",
+ 10615            "requires": {
+ 10616:             "minimist": "^1.2.2"
+ 10617            }
+ 10618          },
+ .....
+ 11183            "integrity": "sha512-aKS4WQjPenRxiQsC93MNfjx+nbF4PAdYzmd/1JIj8HYzqfbu86beTuNgXDzPknWk0n0uARlyewZo4s++ES36Ow==",
+ 11184            "requires": {
+ 11185:             "minimist": "^1.2.2"
+ 11186            }
+ 11187          },
+ .....
+ 11334          "fb-watchman": "^2.0.0",
+ 11335          "micromatch": "^3.1.4",
+ 11336:         "minimist": "^1.2.2",
+ 11337          "walker": "~1.0.5"
+ 11338        }
 
 /Users/ivanapiljic/Exercises/robofriends/yarn.lock:
+  888    dependencies:
+  889      exec-sh "^0.3.2"
+  890:     minimist "^1.2.2"
+  891
+  892  "@csstools/convert-colors@^1.4.0":
+  ...
+ 5955    integrity sha512-aKS4WQjPenRxiQsC93MNfjx+nbF4PAdYzmd/1JIj8HYzqfbu86beTuNgXDzPknWk0n0uARlyewZo4s++ES36Ow==
+ 5956    dependencies:
+ 5957:     minimist "^1.2.2"
+ 5958
+ 5959  json5@^2.1.0:
+ ....
+ 5962    integrity sha512-l+3HXD0GEI3huGq1njuqtzYK8OYJyXMkOLtQ53pjWh89tvWS2h6l+1zMkYWqlb57+SiQodKZyvMEFb2X+KrFhQ==
+ 5963    dependencies:
+ 5964:     minimist "^1.2.2"
+ 5965
+ 5966  jsonfile@^4.0.0:
+ ....
  6429      brace-expansion "^1.1.7"
  6430
  6431: minimist@0.0.8:
  6432    version "0.0.8"
- 6433    resolved "https://registry.yarnpkg.com/minimist/-/minimist-0.0.8.tgz#857fcabfc3397d2625b8228262e86aa7a011b05d"
+ 6433:   resolved "https://registry.yarnpkg.com/minimist/-/minimist-0.0.8.tgz#857fcabfc3397d2625b8228262e86aa7a011b05d"
  6434    integrity sha1-hX/Kv8M5fSYluCKCYuhqp6ARsF0=
  6435
- 6436: minimist@^1.2.2, minimist@^1.2.2:
+ 6436: minimist@^1.1.2, minimist@^1.2.2:
  6437    version "1.2.2"
- 6438    resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.0.tgz#a35008b20f41383eec1fb914f4cd5df79a264284"
+ 6438:   resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.2.tgz#a35008b20f41383eec1fb914f4cd5df79a264284"
+ 6439    integrity sha1-o1AIsg9BOD7sH7kU9M1d95omQoQ=
+ 6440
+ ....
+ 6504    integrity sha1-MAV0OOrGz3+MR2fzhkjWaX11yQM=
+ 6505    dependencies:
+ 6506:     minimist "0.0.8"
+ 6507
+ 6508  move-concurrently@^1.0.1:
+ ....
+ 8775      fb-watchman "^2.0.0"
+ 8776      micromatch "^3.1.4"
+ 8777:     minimist "^1.1.2"
+ 8778      walker "~1.0.5"
+ 8779
 
-7 matches across 2 files
+47 matches across 3 files

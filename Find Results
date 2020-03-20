@@ -1,0 +1,152 @@
+Searching 20 files for "acorn"
+
+/Users/ivanapiljic/Exercises/robofriends/package-lock.json:
+ 2096        }
+ 2097      },
+ 2098:     "acorn": {
+ 2099        "version": "7.1.1",
+ 2100:       "resolved": "https://registry.npmjs.org/acorn/-/acorn-7.1.1.tgz",
+ 2101        "integrity": "sha512-add7dgA5ppRPxCFJoAGfMDi7PIBXq1RtGo7BhbLaxwrXPOmw8gq48Y9ozT01hUKy9byMjlR20EJhu5zlkErEkg=="
+ 2102      },
+ 2103:     "acorn-globals": {
+ 2104        "version": "4.3.4",
+ 2105:       "resolved": "https://registry.npmjs.org/acorn-globals/-/acorn-globals-4.3.4.tgz",
+ 2106        "integrity": "sha512-clfQEh21R+D0leSbUdWf3OcfqyaCSAQ8Ryq00bofSekfr9W8u1jyYZo6ir0xu9Gtcf7BjcHJpnbZH7JOCpP60A==",
+ 2107        "requires": {
+ 2108:         "acorn": "^6.0.1",
+ 2109:         "acorn-walk": "^6.0.1"
+ 2110        },
+ 2111        "dependencies": {
+ 2112:         "acorn": {
+ 2113            "version": "6.4.1",
+ 2114:           "resolved": "https://registry.npmjs.org/acorn/-/acorn-6.4.1.tgz",
+ 2115            "integrity": "sha512-ZVA9k326Nwrj3Cj9jlh3wGFutC2ZornPNARZwsNYqQYgN0EsV2d53w5RN/co65Ohn4sUAUtb1rSUAOD6XN9idA=="
+ 2116          }
+ 2117        }
+ 2118      },
+ 2119:     "acorn-jsx": {
+ 2120        "version": "5.2.0",
+ 2121:       "resolved": "https://registry.npmjs.org/acorn-jsx/-/acorn-jsx-5.2.0.tgz",
+ 2122        "integrity": "sha512-HiUX/+K2YpkpJ+SzBffkM/AQ2YE03S0U1kjTLVpoJdhZMOWy8qvXVN9JdLqv2QsaQ6MPYQIuNmwD8zOiYUofLQ=="
+ 2123      },
+ 2124:     "acorn-walk": {
+ 2125        "version": "6.2.0",
+ 2126:       "resolved": "https://registry.npmjs.org/acorn-walk/-/acorn-walk-6.2.0.tgz",
+ 2127        "integrity": "sha512-7evsyfH1cLOCdAzZAd43Cic04yKydNx0cF+7tiA19p1XnLLPU4dpCQOqpjqwokFe//vS0QqfqqjCS2JkiIs0cA=="
+ 2128      },
+ ....
+ 4980        "integrity": "sha512-ysCxRQY3WaXJz9tdbWOwuWr5Y/XrPTGX9Kiz3yoUXwW0VZ4w30HTkQLaGx/+ttFjF8i+ACbArnB4ce68a9m5hw==",
+ 4981        "requires": {
+ 4982:         "acorn": "^7.1.1",
+ 4983:         "acorn-jsx": "^5.2.0",
+ 4984          "eslint-visitor-keys": "^1.1.0"
+ 4985        }
+ ....
+ 7342        },
+ 7343        "dependencies": {
+ 7344:         "acorn": {
+ 7345            "version": "6.4.1",
+ 7346:           "resolved": "https://registry.npmjs.org/acorn/-/acorn-6.4.1.tgz",
+ 7347            "integrity": "sha512-ZVA9k326Nwrj3Cj9jlh3wGFutC2ZornPNARZwsNYqQYgN0EsV2d53w5RN/co65Ohn4sUAUtb1rSUAOD6XN9idA=="
+ 7348          },
+ ....
+ 7353            "requires": {
+ 7354              "abab": "^2.0.0",
+ 7355:             "acorn": "^6.0.4",
+ 7356:             "acorn-globals": "^4.3.0",
+ 7357              "array-equal": "^1.0.0",
+ 7358              "cssom": "^0.3.4",
+ ....
+ 7744        "requires": {
+ 7745          "abab": "^2.0.0",
+ 7746:         "acorn": "^5.5.3",
+ 7747:         "acorn-globals": "^4.1.0",
+ 7748          "array-equal": "^1.0.0",
+ 7749          "cssom": ">= 0.3.2 < 0.4.0",
+ ....
+ 7771        },
+ 7772        "dependencies": {
+ 7773:         "acorn": {
+ 7774            "version": "5.7.4",
+ 7775:           "resolved": "https://registry.npmjs.org/acorn/-/acorn-5.7.4.tgz",
+ 7776            "integrity": "sha512-1D++VG7BhrtvQpNbBzovKNc1FLGGEE/oGe7b9xJm/RFHMBeUaUGpluV9RLjZa47YFdPcDAenEYuq9pQPcMdLJg=="
+ 7777          }
+ ....
+ 13126          "@webassemblyjs/wasm-edit": "1.8.5",
+ 13127          "@webassemblyjs/wasm-parser": "1.8.5",
+ 13128:         "acorn": "^6.2.1",
+ 13129          "ajv": "^6.10.2",
+ 13130          "ajv-keywords": "^3.4.1",
+ .....
+ 13147        },
+ 13148        "dependencies": {
+ 13149:         "acorn": {
+ 13150            "version": "6.4.1",
+ 13151:           "resolved": "https://registry.npmjs.org/acorn/-/acorn-6.4.1.tgz",
+ 13152            "integrity": "sha512-ZVA9k326Nwrj3Cj9jlh3wGFutC2ZornPNARZwsNYqQYgN0EsV2d53w5RN/co65Ohn4sUAUtb1rSUAOD6XN9idA=="
+ 13153          },
+
+/Users/ivanapiljic/Exercises/robofriends/yarn.lock:
+ 1603      negotiator "0.6.2"
+ 1604
+ 1605: acorn-globals@^4.1.0, acorn-globals@^4.3.0:
+ 1606    version "4.3.4"
+ 1607:   resolved "https://registry.yarnpkg.com/acorn-globals/-/acorn-globals-4.3.4.tgz#9fa1926addc11c97308c4e66d7add0d40c3272e7"
+ 1608    integrity sha512-clfQEh21R+D0leSbUdWf3OcfqyaCSAQ8Ryq00bofSekfr9W8u1jyYZo6ir0xu9Gtcf7BjcHJpnbZH7JOCpP60A==
+ 1609    dependencies:
+ 1610:     acorn "^6.0.1"
+ 1611:     acorn-walk "^6.0.1"
+ 1612
+ 1613: acorn-jsx@^5.1.0:
+ 1614    version "5.1.0"
+ 1615:   resolved "https://registry.yarnpkg.com/acorn-jsx/-/acorn-jsx-5.1.0.tgz#294adb71b57398b0680015f0a38c563ee1db5384"
+ 1616    integrity sha512-tMUqwBWfLFbJbizRmEcWSLw6HnFzfdJs2sOJEOwwtVPMoH/0Ay+E703oZz78VSXZiiDcZrQ5XKjPIUQixhmgVw==
+ 1617
+ 1618: acorn-walk@^6.0.1:
+ 1619    version "6.2.0"
+ 1620:   resolved "https://registry.yarnpkg.com/acorn-walk/-/acorn-walk-6.2.0.tgz#123cb8f3b84c2171f1f7fb252615b1c78a6b1a8c"
+ 1621    integrity sha512-7evsyfH1cLOCdAzZAd43Cic04yKydNx0cF+7tiA19p1XnLLPU4dpCQOqpjqwokFe//vS0QqfqqjCS2JkiIs0cA==
+ 1622
+ 1623: acorn@^5.5.3:
+ 1624    version "5.7.3"
+ 1625:   resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
+ 1626    integrity sha512-T/zvzYRfbVojPWahDsE5evJdHb3oJoQfFbsrKM7w5Zcs++Tr257tia3BmMP8XYVjp1S9RZXQMh7gao96BlqZOw==
+ 1627
+ 1628: acorn@^6.0.1, acorn@^6.0.4, acorn@^6.2.1:
+ 1629    version "6.4.0"
+ 1630:   resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.0.tgz#b659d2ffbafa24baf5db1cdbb2c94a983ecd2784"
+ 1631    integrity sha512-gac8OEcQ2Li1dxIEWGZzsp2BitJxwkwcOm0zHAJLcPJaVvm58FRnk6RkuLRpU1EujipU2ZFODv2P9DLMfnV8mw==
+ 1632
+ 1633: acorn@^7.1.1:
+ 1634    version "7.1.1"
+ 1635:   resolved "https://registry.yarnpkg.com/acorn/-/acorn-7.1.0.tgz#949d36f2c292535da602283586c2477c57eb2d6c"
+ 1636    integrity sha512-kL5CuoXA/dgxlBbVrflsflzQ3PAas7RYZB52NOm/6839iVYJgKMJ3cQJD+t2i5+qFa8h3MDpEOJiS64E8JLnSQ==
+ 1637
+ ....
+ 3887    integrity sha512-2iUPuuPP+yW1PZaMSDM9eyVf8D5P0Hi8h83YtZ5bPc/zHYjII5khoixIUTMO794NOY8F/ThF1Bo8ncZILarUTA==
+ 3888    dependencies:
+ 3889:     acorn "^7.1.0"
+ 3890:     acorn-jsx "^5.1.0"
+ 3891      eslint-visitor-keys "^1.1.0"
+ 3892
+ ....
+ 5845    dependencies:
+ 5846      abab "^2.0.0"
+ 5847:     acorn "^5.5.3"
+ 5848:     acorn-globals "^4.1.0"
+ 5849      array-equal "^1.0.0"
+ 5850      cssom ">= 0.3.2 < 0.4.0"
+ ....
+ 5877    dependencies:
+ 5878      abab "^2.0.0"
+ 5879:     acorn "^6.0.4"
+ 5880:     acorn-globals "^4.3.0"
+ 5881      array-equal "^1.0.0"
+ 5882      cssom "^0.3.4"
+ ....
+ 10109      "@webassemblyjs/wasm-edit" "1.8.5"
+ 10110      "@webassemblyjs/wasm-parser" "1.8.5"
+ 10111:     acorn "^6.2.1"
+ 10112      ajv "^6.10.2"
+ 10113      ajv-keywords "^3.4.1"
+

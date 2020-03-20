@@ -1,5 +1,20 @@
 Searching 21 files for "minimist@"
 
+/Users/ivanapiljic/Exercises/robofriends/Find Results:
+    1: Searching 21 files for "minimist@"
+    2
+    3  /Users/ivanapiljic/Exercises/robofriends/yarn.lock:
+    4   6429      brace-expansion "^1.1.7"
+    5   6430
+    6:  6431: minimist@0.0.8:
+    7   6432    version "0.0.8"
+    8   6433    resolved "https://registry.yarnpkg.com/minimist/-/minimist-0.0.8.tgz#857fcabfc3397d2625b8228262e86aa7a011b05d"
+    9   6434    integrity sha1-hX/Kv8M5fSYluCKCYuhqp6ARsF0=
+   10   6435
+   11:  6436: minimist@^1.2.2, minimist@^1.2.2:
+   12   6437    version "1.2.2"
+   13   6438    resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.0.tgz#a35008b20f41383eec1fb914f4cd5df79a264284"
+
 /Users/ivanapiljic/Exercises/robofriends/yarn.lock:
  6429      brace-expansion "^1.1.7"
  6430
@@ -8,8 +23,8 @@ Searching 21 files for "minimist@"
  6433    resolved "https://registry.yarnpkg.com/minimist/-/minimist-0.0.8.tgz#857fcabfc3397d2625b8228262e86aa7a011b05d"
  6434    integrity sha1-hX/Kv8M5fSYluCKCYuhqp6ARsF0=
  6435
- 6436: minimist@^1.1.1, minimist@^1.2.0:
+ 6436: minimist@^1.2.2, minimist@^1.2.2:
  6437    version "1.2.2"
  6438    resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.0.tgz#a35008b20f41383eec1fb914f4cd5df79a264284"
 
-3 matches in 1 file
+7 matches across 2 files

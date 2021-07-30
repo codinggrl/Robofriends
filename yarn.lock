@@ -190,7 +190,7 @@
     "@babel/helper-split-export-declaration" "^7.8.3"
     "@babel/template" "^7.8.3"
     "@babel/types" "^7.8.3"
-    lodash "^4.17.19"
+    lodash "^4.17.21"
 
 "@babel/helper-optimise-call-expression@^7.8.3":
   version "7.8.3"
@@ -1510,7 +1510,7 @@
     eslint-visitor-keys "^1.1.0"
     glob "^7.1.6"
     is-glob "^4.0.1"
-    lodash "^4.17.15"
+    lodash "^4.17.21"
     semver "^6.3.0"
     tsutils "^3.17.1"
 
@@ -2003,7 +2003,7 @@ async@^2.6.1, async@^2.6.2:
   resolved "https://registry.yarnpkg.com/async/-/async-2.6.3.tgz#d72625e2344a3656e3a3ad4fa749fa83299d82ff"
   integrity sha512-zflvls11DCy+dQWzTW2dzuilv8Z5X/pjfmZOWba6TNIVDm+2UDaJmXSOXlasHKfNBs8oo3M0aT50fDEWfKZjXg==
   dependencies:
-    lodash "^4.17.19"
+    lodash "^4.17.21"
 
 asynckit@^0.4.0:
   version "0.4.0"
@@ -3849,7 +3849,7 @@ eslint-plugin-flowtype@4.6.0:
   resolved "https://registry.yarnpkg.com/eslint-plugin-flowtype/-/eslint-plugin-flowtype-4.6.0.tgz#82b2bd6f21770e0e5deede0228e456cb35308451"
   integrity sha512-W5hLjpFfZyZsXfo5anlu7HM970JBDqbEshAJUkeczP6BFCIfJXuiIBQXyberLRtOStT0OGPF8efeTbxlHk4LpQ==
   dependencies:
-    lodash "^4.17.19"
+    lodash "^4.17.21"
 
 eslint-plugin-import@2.20.0:
   version "2.20.0"
@@ -4951,7 +4951,7 @@ http-proxy-middleware@0.19.1:
   dependencies:
     http-proxy "^1.17.0"
     is-glob "^4.0.0"
-    lodash "^4.17.19"
+    lodash "^4.17.21"
     micromatch "^3.1.10"
 
 http-proxy@^1.17.0:
